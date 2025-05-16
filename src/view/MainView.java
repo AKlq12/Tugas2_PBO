@@ -137,7 +137,7 @@ public class MainView extends javax.swing.JFrame {
 
         jLabel8.setText("Cari buku");
 
-        jComboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Judul", "Genre", "Penulis", "Penerbit", "Lokasi", "Stock" }));
+        jComboBox.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "Judul", "Genre", "Penulis", "Penerbit" }));
 
         btnCari.setText("Cari");
 
